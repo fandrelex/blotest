@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/howto quarto blog/howto quarto blog.html",
+      "/posts/erster-eigener-versuch/voila_test.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]

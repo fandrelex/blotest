@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "posts/howto quarto blog/howto quarto blog.html",
+    "href": "posts/howto quarto blog/howto quarto blog.html",
+    "title": "Howto: ein Blog mit Quarto erstellen",
+    "section": "",
+    "text": "ein Blog mit Quarto auf Linux erstellen das die Daten auf GitHub speichert.\n\nQuarto ist ein bla bla blaquarto create-project myblog –type website:blog\n\nTerminal\n\nquarto create-project myblog --type website:blog\n\nTodo:\n\ninstallation von quarto\ninstallation von … keine Ahnung was kam da noch so?\nerzeugen eines Repos in Github\nerzeugen des “schlüssels” in Githug\naktivieren des lokalen caches für den Schlüssel\nerstellen einer Seite\nveröffentlichen"
+  },
+  {
+    "objectID": "posts/howto quarto blog/howto quarto blog.html#howto",
+    "href": "posts/howto quarto blog/howto quarto blog.html#howto",
+    "title": "Howto: ein Blog mit Quarto erstellen",
+    "section": "",
+    "text": "ein Blog mit Quarto auf Linux erstellen das die Daten auf GitHub speichert.\n\nQuarto ist ein bla bla blaquarto create-project myblog –type website:blog\n\nTerminal\n\nquarto create-project myblog --type website:blog\n\nTodo:\n\ninstallation von quarto\ninstallation von … keine Ahnung was kam da noch so?\nerzeugen eines Repos in Github\nerzeugen des “schlüssels” in Githug\naktivieren des lokalen caches für den Schlüssel\nerstellen einer Seite\nveröffentlichen"
+  },
+  {
+    "objectID": "posts/howto quarto blog/howto quarto blog.html#dieses-howto-basiert-auf-der-online-dokuemntation-von-quarto",
+    "href": "posts/howto quarto blog/howto quarto blog.html#dieses-howto-basiert-auf-der-online-dokuemntation-von-quarto",
+    "title": "Howto: ein Blog mit Quarto erstellen",
+    "section": "Dieses Howto basiert auf der Online Dokuemntation von Quarto:",
+    "text": "Dieses Howto basiert auf der Online Dokuemntation von Quarto:\nCreating a Blog test"
+  },
+  {
+    "objectID": "posts/howto quarto blog/howto quarto blog.html#skdljfökdjdk",
+    "href": "posts/howto quarto blog/howto quarto blog.html#skdljfökdjdk",
+    "title": "Howto: ein Blog mit Quarto erstellen",
+    "section": "skdljfökdjdk",
+    "text": "skdljfökdjdk\nlksdjfasdf asdf"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -14,6 +42,13 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "posts/erster-eigener-versuch/voila_test.html",
+    "href": "posts/erster-eigener-versuch/voila_test.html",
+    "title": "mein ERSTER Versuch Demo",
+    "section": "",
+    "text": "Titel der seite\n\nUntertitel\n\neine Liste:\n\nerster Eintrag\nzweiter Eintrag\n\n\n\nCode\nfrom ipywidgets import Text, IntSlider, Dropdown\n# Erstelle ein neues Text-Eingabefeld tb1 und zeige es an.\ntb1 = Text(value='Text eingeben', \n                   description='Text-Widget: ')\ndisplay(tb1)\n\n\n\n\n\n \nVoila benötigt offenbar node.js… mal sehen was das für konsequenzen hat.."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -23,8 +58,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "myblog",
+    "title": "Falk",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Howto: ein Blog mit Quarto erstellen\n\n\n\n\n\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nFalk\n\n\n\n\n\n\n  \n\n\n\n\nmein ERSTER Versuch Demo\n\n\n\n\n\n\n\n\n\n\n\n\nMay 6, 2023\n\n\nFalk\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
