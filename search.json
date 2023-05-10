@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Falk",
+    "section": "",
+    "text": "Howto: ein Blog mit Quarto erstellen\n\n\n\n\n\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nFalk\n\n\n\n\n\n\n  \n\n\n\n\nmein ERSTER Versuch Demo\n\n\n\n\n\n\n\n\n\n\n\n\nMay 6, 2023\n\n\nFalk\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/erster-eigener-versuch/voila_test.html",
+    "href": "posts/erster-eigener-versuch/voila_test.html",
+    "title": "mein ERSTER Versuch Demo",
+    "section": "",
+    "text": "Titel der seite\n\nUntertitel\n\neine Liste:\n\nerster Eintrag\nzweiter Eintrag\n\n\n\nCode\nfrom ipywidgets import Text, IntSlider, Dropdown\n# Erstelle ein neues Text-Eingabefeld tb1 und zeige es an.\ntb1 = Text(value='Text eingeben', \n                   description='Text-Widget: ')\ndisplay(tb1)\n\n\n\n\n\n \nVoila benötigt offenbar node.js… mal sehen was das für konsequenzen hat.."
+  },
+  {
     "objectID": "posts/howto quarto blog/howto quarto blog.html",
     "href": "posts/howto quarto blog/howto quarto blog.html",
     "title": "Howto: ein Blog mit Quarto erstellen",
@@ -40,26 +61,5 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/erster-eigener-versuch/voila_test.html",
-    "href": "posts/erster-eigener-versuch/voila_test.html",
-    "title": "mein ERSTER Versuch Demo",
-    "section": "",
-    "text": "Titel der seite\n\nUntertitel\n\neine Liste:\n\nerster Eintrag\nzweiter Eintrag\n\n\n\nCode\nfrom ipywidgets import Text, IntSlider, Dropdown\n# Erstelle ein neues Text-Eingabefeld tb1 und zeige es an.\ntb1 = Text(value='Text eingeben', \n                   description='Text-Widget: ')\ndisplay(tb1)\n\n\n\n\n\n \nVoila benötigt offenbar node.js… mal sehen was das für konsequenzen hat.."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Falk",
-    "section": "",
-    "text": "Howto: ein Blog mit Quarto erstellen\n\n\n\n\n\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nFalk\n\n\n\n\n\n\n  \n\n\n\n\nmein ERSTER Versuch Demo\n\n\n\n\n\n\n\n\n\n\n\n\nMay 6, 2023\n\n\nFalk\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
